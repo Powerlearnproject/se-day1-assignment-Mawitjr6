@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-is a branch of computer science that is used for developing, testing and maintaining software. 
+Is a branch of computer science that is used for developing, testing and maintaining software. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Mastering complexity
@@ -14,15 +14,15 @@ Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement and scope.
- requirement analysis - identify the final user specification. 
-design - building the framework. 
-coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
+ Planning - identify the software requirement and scope.
+ Requirement analysis - identify the final user specification. 
+Design - building the framework. 
+Coding - converting software design into tangible code.
+ Testing - examine the software for any bugs and glitches
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
+- There is Low flexibility,
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
